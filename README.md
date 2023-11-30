@@ -5,3 +5,6 @@ Class Labels: {'burger', 'dal_makhani', 'jalebi', 'pakode', 'pav_bhaji', 'kadai_
 Here's some screenshot from Streamlit web-app:
 
 
+<img scr = 'Images/1-1.png'>
+
+![](Images/1-2.png)
